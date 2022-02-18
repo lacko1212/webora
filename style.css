@@ -1,0 +1,18 @@
+body
+{
+    background-image: url(hatter.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.doboz 
+{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: 10px solid green;
+    border-radius: 10%;
+    background-color:rgba(240, 230, 140,0.40);
+    font-size: x-large;
+}
